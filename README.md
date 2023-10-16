@@ -1,2 +1,2 @@
-# Desafio_DIO_PowerBI_Azure
-Repositório para o desafio de projeto DIO. AzureMySql com PowerBI
+# Deposito_de_exercícios_python
+Repositório para o guardar textos, implentação e desafios.
